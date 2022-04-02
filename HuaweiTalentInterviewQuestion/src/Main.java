@@ -4,7 +4,7 @@ import java.util.HashMap;
 public class Main {
 
     /*
-    Maybe there is a more effective solution for this problem but here is my solution
+    There is probably a more effective solution for this problem but here is my solution :)
     -> I also used hashMap to show which character appears how many times to enhance my solution
 
 
