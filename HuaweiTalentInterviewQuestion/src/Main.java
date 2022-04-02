@@ -18,7 +18,7 @@ public class Main {
      */
 
 
-    public static String UniqueOrNot(String s) {
+    public static String uniqueOrNot(String s) {
 
         String result = "";
         int countOfChar = 0;
@@ -61,9 +61,9 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        System.out.println(UniqueOrNot("aaabbbccccclalalahehehesjshshhssssss"));
-        System.out.println(UniqueOrNot("berkay"));
-        System.out.println(UniqueOrNot("cetinnn"));
+        System.out.println(uniqueOrNot("aaabbbccccclalalahehehesjshshhssssss"));
+        System.out.println(uniqueOrNot("berkay"));
+        System.out.println(uniqueOrNot("cetinnn"));
 
     }
 }
