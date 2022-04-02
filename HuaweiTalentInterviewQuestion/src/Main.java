@@ -5,6 +5,7 @@ public class Main {
 
     /*
     There is probably a more effective solution for this problem but here is my solution :)
+    -> I tried to solve the question again as far as I can remember
     -> I also used hashMap to show which character appears how many times to enhance my solution
 
 
