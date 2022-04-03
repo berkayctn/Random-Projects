@@ -4,8 +4,7 @@ import java.util.HashMap;
 public class Main {
 
     /*
-    There is probably a more optimal solution for this problem but here is my solution :)
-    -> I tried to solve the question again as far as I can remember
+    Maybe there is a more effective solution for this problem but here is my solution
     -> I also used hashMap to show which character appears how many times to enhance my solution
 
 
@@ -18,7 +17,7 @@ public class Main {
      */
 
 
-    public static String uniqueOrNot(String s) {
+    public static String UniqueOrNot(String s) {
 
         String result = "";
         int countOfChar = 0;
@@ -61,9 +60,9 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        System.out.println(uniqueOrNot("aaabbbccccclalalahehehesjshshhssssss"));
-        System.out.println(uniqueOrNot("berkay"));
-        System.out.println(uniqueOrNot("cetinnn"));
+        System.out.println(UniqueOrNot("aaabbbccccclalalahehehesjshshhssssss"));
+        System.out.println(UniqueOrNot("berkay"));
+        System.out.println(UniqueOrNot("cetinnn"));
 
     }
 }
