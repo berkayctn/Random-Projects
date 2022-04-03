@@ -1,6 +1,13 @@
 import java.util.Scanner;
 
 public class Main {
+    
+    /*
+    This code piece generates factorials using given input
+    Eg: 
+        input = 3
+        prints 3!, 2!, 1! separately
+    */
 
     public static long factorial(long n) {
         if (n >= 1)
