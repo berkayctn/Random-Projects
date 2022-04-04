@@ -4,6 +4,7 @@ import java.util.HashMap;
 public class Main {
 
     //This code piece counts the characters of a randomly generated String expression.
+    //I combined my own projects (HuaweiTalentInterviewQuestion and RandomStringGenerator) to implement this project.
 
     public static void uniqueOrNot(String s) {
         String result = "";
