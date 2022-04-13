@@ -19,7 +19,7 @@ public class Main {
             arrForStrings.add(c);
         }
 
-        //Check whether the given String is unique
+      
         for (int j = 0; j < arrForStrings.size(); j++) {
             countOfChar = 0;
 
