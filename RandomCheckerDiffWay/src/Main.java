@@ -3,7 +3,7 @@ import java.util.HashSet;
 
 public class Main {
 
-    //I also combined this solution with my RandomStringGenerator project using a Character ArrayList for given String.
+    //I also combined this solution with my RandomStringGenerator project.
     //I used HashSet here so you can clearly see duplicate elements and their counts.
     
     static int countDuplicates(String s) {
