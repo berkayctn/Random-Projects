@@ -47,7 +47,7 @@ public class Main {
     }
 
 
-
+    //5 attempt for test the code
     public static void main(String[] args)  {
         for(int i = 0 ; i < 5 ; i++){
             System.out.println("And the count of the duplicate elements : " + countDuplicates(randomStringGenerator()) + "\n");
