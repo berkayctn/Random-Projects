@@ -86,7 +86,7 @@ public class Main {
                     }
                 }
             } else {
-                System.out.println("Please write a number in given range!");
+                System.out.println("Please write a number in the given range !");
             }
         }
         scanner.close();
